@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/rabbit_hide"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data":10000001}, "model": "item/valtech_item/steel_ingot"},
+        {"predicate": {"custom_model_data":10000002}, "model": "item/valtech_item/carbon"}
+    ]
+}
